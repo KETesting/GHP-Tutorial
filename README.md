@@ -1,4 +1,4 @@
-# My new website
+# Github pages tutorial
 
 #### Kai Evenson's website
 
